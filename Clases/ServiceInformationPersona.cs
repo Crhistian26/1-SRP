@@ -9,6 +9,6 @@ public class ServiceInformationPersona
     public void Descripcion(SRP_Persona persona)
     {
         // Simulación de mostrar información de la persona
-        Console.WriteLine($"Nombre: {persona.nombre}, Edad: {persona.edad}, Dirección: {persona.direccion}, Correo Electrónico: {persona.correoElectronico}");
+        Console.WriteLine($"Nombre: {persona.nombre} \nEdad: {persona.edad} \nDirección: {persona.direccion} \nCorreo Electrónico: {persona.correoElectronico}");
     }
 }

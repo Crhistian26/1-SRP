@@ -14,6 +14,6 @@ class Program
         serviceEmailPersona.EnviarCorreo(Juan,Pepe,"Hola pepe un placer tenerte por aca");
 
         serviceInformationPersona.Descripcion(Pepe);
-
+        serviceInformationPersona.Descripcion(Juan);
     }
 }
