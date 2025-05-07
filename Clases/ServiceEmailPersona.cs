@@ -11,6 +11,6 @@ public class ServiceEmailPersona
     public void EnviarCorreo(SRP_Persona Escritor, SRP_Persona Remitente, string mensaje)
     {
         // Simulación de envío de correo electrónico
-        Console.WriteLine($"El escritor {Escritor.correoElectronico} le envion un correo a {Remitente.correoElectronico} con el mensaje: {mensaje}");
+        Console.WriteLine($"\n El escritor {Escritor.correoElectronico} le envion un correo a {Remitente.correoElectronico} con el mensaje: {mensaje}\n");
     }
 }

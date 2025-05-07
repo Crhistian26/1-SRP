@@ -15,5 +15,7 @@ class Program
 
         serviceInformationPersona.Descripcion(Pepe);
         serviceInformationPersona.Descripcion(Juan);
+
+        Console.ReadKey();
     }
 }

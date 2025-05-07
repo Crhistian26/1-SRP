@@ -16,3 +16,4 @@ C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\1 SRP\Pra
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\1 SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.pdb
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\1 SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.genruntimeconfig.cache
 C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\1 SRP\Practica SRP\obj\Debug\net8.0\ref\Practica SRP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\1 SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.sourcelink.json
