@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica SRP", "Practica SRP\Practica SRP.csproj", "{9F897280-54EA-4DDB-B274-4935C9C6E3E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{5B316154-CC5C-45DA-8ACE-8658D8B8E28F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F897280-54EA-4DDB-B274-4935C9C6E3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F897280-54EA-4DDB-B274-4935C9C6E3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F897280-54EA-4DDB-B274-4935C9C6E3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F897280-54EA-4DDB-B274-4935C9C6E3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B316154-CC5C-45DA-8ACE-8658D8B8E28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B316154-CC5C-45DA-8ACE-8658D8B8E28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B316154-CC5C-45DA-8ACE-8658D8B8E28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B316154-CC5C-45DA-8ACE-8658D8B8E28F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
